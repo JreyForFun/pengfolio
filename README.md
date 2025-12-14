@@ -12,7 +12,7 @@ Welcome to **Pengfolio**, the personal portfolio website of Penny Guin, a financ
 *   **Service Showcase**: clearly displayed financial services with custom flat-style icons.
 *   **Pricing Plans**: An elegant pricing table highlighting various service tiers.
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack Used
 
 *   **HTML5**: Semantic markup for better accessibility and SEO.
 *   **CSS3**: Custom variables, Flexbox for layout, and Neumorphism styling.
