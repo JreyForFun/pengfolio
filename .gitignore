@@ -1,0 +1,12 @@
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Dependency cache
+node_modules/
+dist/
+.env
